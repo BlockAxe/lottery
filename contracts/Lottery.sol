@@ -74,7 +74,7 @@ contract Lottery {
     }
   }
 
-  function getPlayersLength() public view returns (uint) {
-    return players.length;
-  }
+  // function getPlayersLength() public view returns (uint) {
+  //   return players.length;
+  // }
 }
