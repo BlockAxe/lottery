@@ -9,7 +9,7 @@
 智能合约会自动记录参与人数，达到设定人数后自动公开总参与人数并随机计算中奖者。任何人可以登录以太坊浏览器查询，项目方无法造假、无法篡改，链上可查。
 
 兑奖方式
-中奖者打开https://www.myetherwallet.com/#contracts，输入合约地址和ABI，选择safeWithdrawal()执行就可以提现，除中奖者钱包账号外任何人都无法提取。合约地址和ABI可以登录以太坊浏览器查询，或向项目方索取。
+中奖者打开https://www.myetherwallet.com/#contracts, 输入合约地址和ABI，选择safeWithdrawal()执行就可以提现，除中奖者钱包账号外任何人都无法提取。合约地址和ABI可以登录以太坊浏览器查询，或向项目方索取。
 
 当前开放可参与的地址有: 
 0xAdB606C42446e7AF0Ef5562e0d905Ab52c4F9C4A ~1000
