@@ -1,4 +1,25 @@
-1.项目推广广告文案中英文版本撰写(重点）
+# 运行测试部署
+## 环境要求
+- node.js >= 8
+- mocha >= 4
+
+## 启动ethereum测试网络
+1. use truffle
+> truffle develop
+
+2. use [Ganache](https://truffleframework.com/docs/ganache/quickstart)
+> npm install -g ganache-cli 
+
+or install desktop client.
+
+## 部署
+> truffle migrate
+
+## 测试
+> truffle test
+
+# 运营推广
+## 项目推广广告文案中英文版本撰写(重点）
 原理说明
 去中心化彩票采用以太坊智能合约技术，每个钱包地址往彩票合约地址转0.01ETH就能参与活动，每个钱包地址只能参与一次且转账金额不能多也不能少，达到设定人数之后活动自动停止并通过随机算法选出中奖者，中奖者将获得奖池中80%的资金，20%为项目方所得佣金。智能合约代码公开透明，活动停止前任何人不能提取奖池中的资金。
 
@@ -30,7 +51,7 @@ The following game contract addresses are open:
 
 https://etherscan.io/address/0xadb606c42446e7af0ef5562e0d905ab52c4f9c4a#code
 
-2.建立拼团电报群，作为项目推广基地
-3.初期推广重点：Telegram群
-群数：1000个
+## 建立拼团电报群，作为项目推广基地
+## 初期推广重点：Telegram群
+群数：1000个  
 注册电报小号：10个，每个号准备100个群（建议不重复）
